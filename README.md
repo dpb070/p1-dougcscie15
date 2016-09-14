@@ -13,4 +13,4 @@ CSCIE-15 First Project - portfolio and landing page
 None
 
 ## Outside code
-* TBD
+* Kickstart HTML library (see www.99lime.com)
