@@ -7,7 +7,7 @@
 CSCIE-15 First Project - portfolio and landing page
 
 ## Demo
-<https://www.youtube.com/tbd>
+<http://screencast.com/t/2qNpYbFWNobt>
 
 ## Details for teaching team
 None
